@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: print('It isn`t in the section 'C:\some\name_of_file'')
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12130#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 02 May 2021 11:34:16 UTC
+record: -1
